@@ -1,0 +1,72 @@
+/* Header Related Styles*/
+body{
+    color: #FFF8F3;
+    margin: 0%;
+    background-image: url(MH\ Background.png), url(Developer.png), url(over\ all\ header.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left top, center;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    margin: 0 100px;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+#style{
+    color: #FD6E0A;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-family: sans-serif;
+    width: 20%;
+    list-style-type: none;
+}
+#btn{
+    padding: 10px;
+    color: white;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #FD6E0A;
+}
+.mid{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+.text>h2{
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: normal;
+    color: black;
+    margin: 0 100px;
+
+}
+.text>h1{
+    font-family: sans-serif;
+    font-size: 85px;
+    font-weight: bold;
+    color: black;
+    margin: 0 100px;
+}
+.text>p{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0 100px;
+    padding: 20px 0;
+    width: 600px;
+}
+.image{
+    align-items: right bottom;
+
+}
